@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(27, 12, 44);
+}
+.section{
+    color:aliceblue;
+    text-align: center;
+}
+
+.image{
+    width: 400px;
+    border-radius: 5%;
+    margin-top: 20px;
+}
+
+.tittle{
+    font-size: 50px;
+    color: whitesmoke;
+    font-family: 'Alkalami', serif;
+
+}
+
